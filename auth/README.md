@@ -1,3 +1,9 @@
+---
+layout: default
+title: Autenticación
+nav_order: 3
+has_children: false
+---
 # Autenticación
 Realizar autenticaciones con Laravel 5.8 es sumamente secillo. Para este ejemplo comenzaremos con un proyecto desde cero.
 

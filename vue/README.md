@@ -1,3 +1,9 @@
+---
+layout: default
+title: Vue & Laravel
+nav_order: 4
+has_children: false
+---
 # Vue.js en Laravel
 En las últimas versiones de Laravel (en este caso la versión 5.8) está preconfigurado Vue.js, por lo tanto comenzaremos de cero con un nuevo proyecto: [Documentación oficial](https://laravel.com/docs/5.8/frontend)
 

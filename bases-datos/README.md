@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bases de Datos
-has_children: true
+has_children: false
 nav_order: 2
 ---
 # Bases de datos

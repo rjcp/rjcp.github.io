@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bases de Datos Relacionales 2
+nav_order: 8
+has_children: false
+---
 # DB Relacionales
 Este es el primer capítulo de nuestra primera API REST con Laravel 5.8, donde iremos diseñando nuestra base de datos con campos relacionales.
 

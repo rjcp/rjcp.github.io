@@ -1,3 +1,9 @@
+---
+layout: default
+title: Factorías y Faker
+nav_order: 7
+has_children: false
+---
 # Factorías y Faker
 Podemos llenar de forma aleatoria nuestra base de datos, para esto podemos mezclar las [factorías](https://laravel.com/docs/5.8/database-testing#generating-factories) con [Faker de PHP](https://github.com/fzaninotto/Faker).
 

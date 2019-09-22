@@ -1,3 +1,9 @@
+---
+layout: default
+title: Trucos
+nav_order: 5
+has_children: false
+---
 # Trucos con Laravel
 Aquí trataré de especificar diversos trucos y conceptos varios con Laravel 5.8
 

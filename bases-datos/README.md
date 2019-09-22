@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bases de Datos
+has_children: true
+nav_order: 2
+---
 # Bases de datos
 
 El ORM de **Eloquent** incluido con Laravel proporciona una implementación de ActiveRecord simple y hermosa para trabajar con su base de datos. Cada tabla de base de datos tiene un "Modelo" correspondiente que se utiliza para interactuar con esa tabla. Los modelos le permiten consultar datos en sus tablas, así como insertar nuevos registros en la tabla.

@@ -4,4 +4,3 @@ color_scheme: "dark"
 search_enabled: true
 logo: "/assets/images/rjcp.png"
 footer_content: "RJCP. <a href=\'https://github.com/rjcp/'>Github Repository</a>"
-nav_order: 1

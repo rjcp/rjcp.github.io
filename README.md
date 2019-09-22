@@ -1,3 +1,5 @@
+{% include simple-menu.html %}
+
 # Introducción a Laravel
 
 Está guía está diseñada para poder obtener el código del curso de Laravel de una forma amigable y en español.

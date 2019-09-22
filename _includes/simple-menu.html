@@ -1,4 +1,5 @@
 <ul class="nav navbar-nav">
+	<li {% if page.url contains '/' %}class="active"{% endif %}><a href="/">Home</a></li>
     <li {% if page.url contains '/getting-started/' %}class="active"{% endif %}><a href="/getting-started/">Getting started</a></li>
     <li {% if page.url contains '/without-plugin/' %}class="active"{% endif %}><a href="/without-plugins/">Without plugins</a></li>
     <li {% if page.url contains '/blog/' %}class="active"{% endif %}><a href="/blog/">Blog</a></li>
@@ -13,7 +14,3 @@
        c0.22,0,0.4-0.182,0.4-0.4V13H6.752C5.602,13,5.578,12.449,6.547,12.172z" />
    </svg></a></li>
 </ul>
-
-<div class="download hidden-sm">
-    <a href="http://jekyllrb.com/" class="btn btn-primary btn-sm" target="_blank" rel="noopener">Official Jekyll Docs</a>
-</div>

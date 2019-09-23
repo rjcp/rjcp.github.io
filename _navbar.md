@@ -3,5 +3,5 @@
 * MENU
 	* [Home](/)
 * LARAVEL
-	* [Notes](Laravel.md "Laravel notes")
+	* [Notes](Laravel5.5.md "Laravel notes")
 	* [Datatables](Laravel_Datatables.md)
